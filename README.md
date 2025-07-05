@@ -86,9 +86,8 @@
 <h3 align="left">Experience:</h3>
 <div style="background-color: #cfe2ff; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
     <ul>
-        <li>Software Engineer Intern at XYZ Company - 2023</li>
         <li>Freelance Web Developer - 2022</li>
-        <li>Worked on Full-stack Projects using React, Node.js, and MongoDB</li>
+        <li>Worked on Full-stack Projects using Frameworks like Java, Kotlin, React Native, Redis</li>
     </ul>
 </div>
 
