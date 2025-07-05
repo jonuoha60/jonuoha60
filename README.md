@@ -5,11 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=jonuoha60&label=Profile%20views&color=0e75b6&style=flat" alt="jonuoha60" />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=jonuoha60" alt="jonuoha60" />
-    </a>
-</p>
+
 
 - 🌱 I’m currently learning **.NET, Django**
 
