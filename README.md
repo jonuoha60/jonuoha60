@@ -11,8 +11,6 @@
     </a>
 </p>
 
-🌱 I’m currently learning **.NET, Django**
-
 👨‍💻 All of my projects are available at [https://john-onuoha.com/](https://john-onuoha.com/)
 
 📫 How to reach me **onuohaikenna13@gmail.com**
