@@ -1,4 +1,4 @@
-<div style="background-color: #f5f7fa; padding: 20px; border-radius: 12px;">
+<div style="background-color: #2e333b; padding: 20px; border-radius: 12px;">
 
 <h1 align="left">Hi 👋, I'm John</h1>
 <h3 align="left">A creative, self-taught, and independent Software Engineer based in Canada</h3>
