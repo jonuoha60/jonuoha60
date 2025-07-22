@@ -19,60 +19,62 @@
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; padding-top: 10px;">
-    <!-- Tool Item -->
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+
+  <!-- Horizontal scroll container -->
+  <div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0;">
+    <!-- One icon per tool -->
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </div>
-    <div style="background-color: #161b22; border-radius: 10px; padding: 10px;">
+    <div style="background-color: #161b22; border-radius: 10px; padding: 10px; flex: 0 0 auto;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
     </div>
   </div>
