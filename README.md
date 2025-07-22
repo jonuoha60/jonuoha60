@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="left">Hi 👋, I'm John</h1>
 <h3 align="center">A creative, self-taught, and independent Software Engineer based in Canada</h3>
 
 <p align="left">
