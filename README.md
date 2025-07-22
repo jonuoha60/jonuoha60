@@ -1,4 +1,5 @@
-<div style="background-color: #2e333b; padding: 20px; border-radius: 12px;">
+<!-- Start Dark Background Wrapper -->
+<div style="background-color: #0d1117; color: #c9d1d9; padding: 25px; border-radius: 12px; font-family: Arial, sans-serif;">
 
 <h1 align="left">Hi 👋, I'm John</h1>
 <h3 align="left">A creative, self-taught, and independent Software Engineer based in Canada</h3>
@@ -7,11 +8,9 @@
     <img src="https://komarev.com/ghpvc/?username=jonuoha60&label=Profile%20views&color=0e75b6&style=flat" alt="jonuoha60" />
 </p>
 
+<p>👨‍💻 All of my projects are available at <a href="https://john-onuoha.com/" style="color:#58a6ff;">https://john-onuoha.com/</a></p>
 
-
-👨‍💻 All of my projects are available at [https://john-onuoha.com/](https://john-onuoha.com/)
-
-📫 How to reach me **onuohaikenna13@gmail.com**
+<p>📫 How to reach me: <strong>onuohaikenna13@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,14 +77,17 @@
     </a>
 </p>
 
-<!-- Experience Section with Background -->
 <h3 align="left">Experience:</h3>
-<div style="background-color: #cfe2ff; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+<div style="background-color: #161b22; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
     <ul>
         <li>Freelance Web Developer - 2022</li>
         <li>Worked on Full-stack Projects using Frameworks like Java, Kotlin, React Native, Redis</li>
     </ul>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonuoha60&show_icons=true&locale=en&layout=compact" alt="jonuoha60" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonuoha60&show_icons=true&locale=en&layout=compact" alt="jonuoha60" />
+</p>
+
 </div>
+<!-- End Background Wrapper -->
