@@ -1,3 +1,5 @@
+<div style="background-color: #f5f7fa; padding: 20px; border-radius: 12px;">
+
 <h1 align="left">Hi 👋, I'm John</h1>
 <h3 align="left">A creative, self-taught, and independent Software Engineer based in Canada</h3>
 
@@ -86,4 +88,4 @@
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonuoha60&show_icons=true&locale=en&layout=compact" alt="jonuoha60" /></p>
-
+</div>
