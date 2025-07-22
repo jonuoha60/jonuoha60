@@ -1,4 +1,3 @@
-<!-- Start Dark Background Wrapper -->
 <div style="background-color: #0d1117; color: #c9d1d9; padding: 25px; border-radius: 12px; font-family: Arial, sans-serif;">
 
 <h1 align="left">Hi 👋, I'm John</h1>
@@ -90,4 +89,3 @@
 </p>
 
 </div>
-<!-- End Background Wrapper -->
