@@ -10,7 +10,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<h4>I spend half my day on VSCode</h4>
 
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
