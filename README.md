@@ -66,13 +66,5 @@
     </a>
 </p>
 
-<!-- Experience Section with Background -->
-<h3 align="left">Experience:</h3>
-<div style="background-color: #cfe2ff; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
-    <ul>
-        <li>Freelance Web Developer - 2022</li>
-        <li>Worked on Full-stack Projects using Frameworks like Java, Kotlin, React Native, Redis</li>
-    </ul>
-</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonuoha60&show_icons=true&locale=en&layout=compact" alt="jonuoha60" /></p>
