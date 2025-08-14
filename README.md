@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm John</h1>
 <h3 align="left">I code what I imagine</h3>
 <h4>My favorite painter is Van Gogh</h4>
-<h4>I spend half my day on VSCode</h4>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=jonuoha60&label=Profile%20views&color=0e75b6&style=flat" alt="jonuoha60" />
@@ -11,6 +10,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<h4>I spend half my day on VSCode</h4>
+
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
