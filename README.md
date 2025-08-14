@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm John</h1>
-<h3 align="left">A creative, self-taught, and independent Software Engineer based in Canada</h3>
+<h3 align="left">I code what I imagine</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=jonuoha60&label=Profile%20views&color=0e75b6&style=flat" alt="jonuoha60" />
