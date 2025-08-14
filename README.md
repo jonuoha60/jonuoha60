@@ -7,11 +7,6 @@
 
 
 
-👨‍💻 All of my projects are available at [https://john-onuoha.com/](https://john-onuoha.com/)
-
-📫 How to reach me **onuohaikenna13@gmail.com**
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
