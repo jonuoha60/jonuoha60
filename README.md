@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://www.instagram.com/your_username" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
