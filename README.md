@@ -6,6 +6,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,py,go,java,docker,bash,linux,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,react,ts,py,go,java,docker,bash,linux,git,mongodb,mysql&perline=6" />
   </a>
 </p>
