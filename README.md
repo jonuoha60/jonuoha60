@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/your_username" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/your_username" target="_blank">
+  <a href="[https://www.linkedin.com/in/your_username](https://www.linkedin.com/in/john-onuoha1/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
