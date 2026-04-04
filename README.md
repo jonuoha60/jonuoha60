@@ -13,10 +13,10 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-  <a href="https://www.instagram.com/johncodes" target="_blank">
+  <a href="https://www.instagram.com/johncodes" target="_blank" style="margin-right: 12px;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="35" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/johnonuoha" target="_blank">
+  <a href="https://www.linkedin.com/in/johnonuoha" target="_blank" style="margin-right: 12px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35" />
   </a>
   <a href="mailto:your.email@example.com">
