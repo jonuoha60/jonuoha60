@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/johncodes" target="_blank" style="margin-right: 12px;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="35" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/johnonuoha" target="_blank" style="margin-right: 12px;">
+  <a href="https://www.linkedin.com/in/john-onuoha1" target="_blank" style="margin-right: 12px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35" />
   </a>
   <a href="mailto:johnonuoha79@gmail.com">
