@@ -3,7 +3,7 @@
 <ul>
   <li>Currently learning: Docker, Go, AWS</li>
   <li>My favorite painter is Van Gogh</li>
-  <li>Graduating from Computer Science program at York University on May 2025, field of interest are Software Engineering, Automation and Embedded System</li>
+  <li>Graduating from Computer Science program at York University in December 2028, my field of interest are Software Engineering, Automation and Embedded System</li>
   <li>I love to play basketball and video games</li>
 </ul>
 
