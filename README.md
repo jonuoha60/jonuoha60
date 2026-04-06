@@ -1,6 +1,10 @@
 <h1 align="left">Hi 👋, I'm John, Nice to meet you!</h1>
 <h3 align="left">I'm a Full Stack Engineer</h3>
-<ul>My favorite painter is Van Gogh</ul>
+<ul>
+  <li>Currently learning: Docker, Go, AWS</li>
+  <li>My favorite painter is Van Gogh</li>
+  <li>I love to play basketball and video games</li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
