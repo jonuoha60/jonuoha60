@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm John, Nice to meet you!</h1>
 <h3 align="left">I'm a Full Stack Engineer</h3>
 <ul>
-  <li>Currently learning: Docker, Go, AWS</li>
-  <li>My favorite painter is Van Gogh</li>
-  <li>Graduating from Computer Science program at York University in December 2028, my field of interest are Software Engineering, Automation and Embedded System</li>
-  <li>I love to play basketball and video games, which helps me strengthen my creativity</li>
+  <li>💻 I am Currently learning: Docker, Go, AWS</li>
+  <li>🎨 My favorite painter is Van Gogh</li>
+  <li>🏫 Graduating from Computer Science program at York University in December 2028, my field of interest are Software Engineering, Automation and Embedded System</li>
+  <li>🏀 I love to play basketball and video games, which helps me strengthen my creativity</li>
 </ul>
 
 
