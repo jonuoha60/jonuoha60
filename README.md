@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm John</h1>
+<h1 align="left">Hi 👋, I'm John, Nice to meet you!</h1>
 <h3 align="left">I code what you imagine</h3>
 <p>My favorite painter is Van Gogh</p>
 
