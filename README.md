@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm John, Nice to meet you!</h1>
-<h3 align="left">I code what you imagine</h3>
-<p>My favorite painter is Van Gogh</p>
+<h3 align="left">I'm a Full Stack Engineer</h3>
+<ul>My favorite painter is Van Gogh</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
