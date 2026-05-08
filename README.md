@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm John</h1>
 
-<h4 style="margin-bottom: 14px;">Full Stack Developer</h4>
+<h4 style="margin-bottom: 14px;">Software Engineer</h4>
 
 <p>
-  A full-stack developer whose main goal is to create.
+  My main goal is to create.
 </p>
 
 
