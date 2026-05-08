@@ -3,7 +3,7 @@
 <h4 style="margin-bottom: 14px;">Full Stack Developer</h4>
 
 <p>
-  A full-stack developer whose main goal is to create scalable resources and applications with the specific intent of helping to provide solutions to real-world problems. I can bridge visual design, frontend development, backend implementation, and product strategy, while staying current in a rapidly evolving digital landscape.
+  A full-stack developer whose main goal is to create.
 </p>
 
 <br />
