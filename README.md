@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm John, Nice to meet you!</h1>
 <h4 align="left">Full Stack Developer</h>
 <ul>
-<>I am a full-stack developer whose main goal is to create </p>
+<p>I am a full-stack developer whose main goal is to create </p>
 </ul>
 
 
