@@ -6,7 +6,6 @@
   A full-stack developer whose main goal is to create.
 </p>
 
-<br />
 
 <h3 align="left">Languages and Tools:</h3>
 
