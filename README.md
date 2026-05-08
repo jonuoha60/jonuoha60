@@ -1,9 +1,12 @@
-<h1 align="left">Hi 👋, I'm John, Nice to meet you!</h1>
-<h4>Full Stack Developer</h>
+<h1 align="left">Hi, I'm John</h1>
+
+<h4 style="margin-bottom: 14px;">Full Stack Developer</h4>
+
+<p>
+  A full-stack developer whose main goal is to create scalable resources and applications with the specific intent of helping to provide solutions to real-world problems. I can bridge visual design, frontend development, backend implementation, and product strategy, while staying current in a rapidly evolving digital landscape.
+</p>
+
 <br />
-<p>I am a full-stack developer whose main goal is to create resources and applications with the specific intent of helping </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -14,13 +17,16 @@
 </p>
 
 <h4 align="left">Connect with me:</h4>
+
 <p align="left">
   <a href="https://www.instagram.com/johncodes" target="_blank" style="margin-right: 12px;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="35" height="35" />
   </a>
+
   <a href="https://www.linkedin.com/in/john-onuoha1" target="_blank" style="margin-right: 12px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35" />
   </a>
+
   <a href="mailto:johnonuoha79@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="35" height="35" />
   </a>
