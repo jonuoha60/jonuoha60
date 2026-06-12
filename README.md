@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm John Onuoha!</h1>
 
-<h4 align="center" style="margin-bottom: 14px;">A Passionate Software Engineer based in Toronto Canada</h4>
+<h4 align="center" style="margin-bottom: 16px;">A Passionate Software Engineer/Developer based in Toronto Canada</h4>
 
 <p>
   My main goal is to create.
