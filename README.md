@@ -12,9 +12,7 @@
   <a href="https://github.com/johnonuoha">🐙 GitHub</a>
 
 </p>
-<p>
-  My main goal is to create.
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
