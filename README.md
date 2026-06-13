@@ -3,7 +3,7 @@
 <h4 align="center" style="margin-bottom: 16px;">A Passionate Software Engineer/Developer based in Toronto, Canada</h4>
 <h4 align="center">
   <u>
-    <a href="mailto:john@example.com">Email</a> •
+    <a href="mailto:johnonuoha79@gmail.com">Email</a> •
     <a href="https://linkedin.com/in/john-onuoha1">LinkedIn</a> •
     <a href="https://johnonuoha.dev">Portfolio</a>
   </u>
@@ -15,7 +15,7 @@
 <h2 align="left">About Me:</h2>
 
 <ul>
-  <li>I'm a <strong>Software Engineering Student</strong> based in <strong>Toronto, Canada</strong>.</li>
+  <li><strong>Software Engineering @ York University, Lassonde School of Engineering</strong></li>
   <li>I enjoy building <strong>full-stack web applications</strong>, mobile apps, and scalable backend systems.</li>
   <li>Currently working with <strong>React</strong>, <strong>React Native</strong>, <strong>Spring Boot</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
   <li>Building projects that combine <strong>music</strong>, <strong>AI</strong>, and <strong>real-time collaboration</strong>.</li>
