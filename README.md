@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm John Onuoha!</h1>
 
 <h4 align="center" style="margin-bottom: 16px;">A Passionate Software Engineer/Developer based in Toronto Canada</h4>
-<h3 align="center">
+<h4 display="flex" align="center">
 
   <a href="mailto:john@example.com">Email</a> •
 
@@ -9,7 +9,7 @@
 
   <a href="https://johnonuoha.dev">Portfolio</a> •
 
-</h3>
+</h4>
 
 
 
