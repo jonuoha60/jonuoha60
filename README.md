@@ -20,15 +20,4 @@
   </a>
 </p>
 
-<h4 align="left">Connect with me:</h4>
 
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/john-onuoha1" target="_blank" style="margin-right: 12px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35" />
-  </a>
-
-  <a href="mailto:johnonuoha79@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="35" height="35" />
-  </a>
-</p>
