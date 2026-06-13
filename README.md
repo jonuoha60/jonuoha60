@@ -16,7 +16,9 @@
 
 <ul>
   <li><strong>Software Engineering @ York University, Lassonde School of Engineering.</strong></li>
-  <li><strong>Founder of Ameer-AI</strong>— Creating trips affordable and safe for everyone at anytime.</li>
+<li>
+  <strong>Founder of <a href="https://ameer-ai.com">Ameer-AI</a></strong> — Building an AI-powered platform dedicated to making travel more <strong>affordable</strong>, <strong>accessible</strong>, and <strong>safe</strong> for everyone, anytime and anywhere.
+</li>
   <li>I enjoy building <strong>full-stack web applications</strong>, mobile apps, and scalable backend systems.</li>
   <li>Currently working with <strong>React</strong>, <strong>React Native</strong>, <strong>Spring Boot</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
   <li>Building projects that combine <strong>music</strong>, <strong>AI</strong>, and <strong>real-time collaboration</strong>.</li>
