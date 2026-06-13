@@ -4,7 +4,7 @@
 <h4 align="center">
   <u>
     <a href="mailto:john@example.com">Email</a> •
-    <a href="https://linkedin.com/in/john-onuoha">LinkedIn</a> •
+    <a href="https://linkedin.com/in/john-onuoha1">LinkedIn</a> •
     <a href="https://johnonuoha.dev">Portfolio</a>
   </u>
 </h4>
