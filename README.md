@@ -14,9 +14,15 @@
 
 <h2 align="left">About Me:</h2>
 
-<p align="left">
- 
-</p>
+<ul>
+  <li>🎓 I'm a <strong>Software Engineering Student</strong> based in <strong>Toronto, Canada</strong>.</li>
+  <li>💻 I enjoy building <strong>full-stack web applications</strong>, mobile apps, and scalable backend systems.</li>
+  <li>🚀 Currently working with <strong>React</strong>, <strong>React Native</strong>, <strong>Spring Boot</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
+  <li>🎵 Building projects that combine <strong>music</strong>, <strong>AI</strong>, and <strong>real-time collaboration</strong>.</li>
+  <li>📚 Passionate about learning new technologies and improving my <strong>software architecture</strong> and <strong>system design</strong> skills.</li>
+  <li>🤝 Open to collaborating on <strong>open-source projects</strong> and innovative ideas.</li>
+</ul>
+
 
 <h2 align="left">Languages & Frameworks:</h2>
 
