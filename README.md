@@ -24,7 +24,7 @@
 </ul>
 
 
-<h3 align="left">Languages & Frameworks:</h3>
+<!-- <h3 align="left">Languages & Frameworks:</h3> -->
 
 <p align="left">
   <a href="https://skillicons.dev">
