@@ -26,10 +26,10 @@
 
 <!-- <h3 align="left">Languages & Frameworks:</h3> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,react,ts,py,go,java,spring,cpp,docker,bash,linux,git,mongodb,mysql,firebase,supabase,tailwind,threejs,vite&perline=6" />
   </a>
-</p>
+</p> -->
 
 
