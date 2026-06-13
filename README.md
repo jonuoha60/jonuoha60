@@ -15,9 +15,7 @@
 <h2 align="left">About Me:</h2>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,ts,py,go,java,spring,cpp,docker,bash,linux,git,mongodb,mysql,firebase,supabase,tailwind,threejs,vite&perline=6" />
-  </a>
+ 
 </p>
 
 <h2 align="left">Languages & Frameworks:</h2>
