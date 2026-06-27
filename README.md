@@ -21,7 +21,6 @@
 </li>
   <li>Currently working with <strong>React</strong>, <strong>React Native</strong>, <strong>Spring Boot</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
   <li>Building projects that combine <strong>music</strong>, <strong>AI</strong>, and <strong>real-time collaboration</strong>.</li>
-  <li>Passionate about learning new technologies and improving my <strong>software architecture</strong> and <strong>system design</strong> skills.</li>
   <li>Open to collaborating on <strong>open-source projects</strong> and innovative ideas.</li>
 </ul>
 
