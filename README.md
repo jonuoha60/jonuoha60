@@ -15,7 +15,7 @@
 <h2 align="left">About Me:</h2>
 
 <ul>
-  <li><strong>Software Engineering @ York University, Lassonde School of Engineering.</strong></li>
+  <li><strong>Computer Science @ York University, Lassonde School of Engineering.</strong></li>
 <li>
   <strong>Founder of <a href="https://ameer-ai.vercel.app">Ameer-AI</a></strong> — Building an AI-powered platform dedicated to making travel more <strong>affordable</strong>, <strong>accessible</strong>, and <strong>safe</strong> for everyone, anytime and anywhere.
 </li>
