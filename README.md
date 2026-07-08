@@ -5,7 +5,7 @@
   <u>
     <a href="mailto:johnonuoha79@gmail.com">Email</a> •
     <a href="https://linkedin.com/in/john-onuoha1">LinkedIn</a> •
-    <a href="https://johnonuoha.dev">Portfolio</a>
+    <a href="https://johnonuoha.vercel.app/">Portfolio</a>
   </u>
 </h4>
 
