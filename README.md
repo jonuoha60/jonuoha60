@@ -19,7 +19,7 @@
 <li>
   <strong>Founder of <a href="https://ameer-ai.vercel.app">Ameer-AI</a></strong> — Building an AI-powered platform dedicated to making travel more <strong>affordable</strong>, <strong>accessible</strong>, and <strong>safe</strong> for everyone, anytime and anywhere.
 </li>
-  <li>Currently working with <strong>React</strong>, <strong>React Native</strong>, <strong>Spring Boot</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
+  <li><strong>Currently working with</strong> — React, Java, Spring Boot, Go, Node.js, and Python.</li>
   <li>Open to collaborating on <strong>open-source projects</strong> and innovative ideas.</li>
 </ul>
 
